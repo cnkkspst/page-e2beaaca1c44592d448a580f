@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "2d4869caf1877f419a81f3ce",
+  "owner": "cnkkspst",
+  "repo": "page-e2beaaca1c44592d448a580f",
+  "title": "花云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "e2beaaca1c44592d448a580f",
+      "a": "花云",
+      "b": "2027最新官网",
+      "entity": "花云",
+      "brand": "花云",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "5ed7369a574f0f1c0256f645b2142443218a077cc9cdd7c7ada4dd5268c46c1d",
+      "content": {
+        "primary_entity": "花云",
+        "keyword1": "花云",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "不同系统有对应客户端，订阅配置方式可参考各客户端文档。",
+          "AI_CLIENTS_TITLE": "设备与客户端",
+          "AI_CLOSING_TEXT": "按设备数量与流量需求选定套餐，再参照客户端文档完成订阅配置。",
+          "AI_CLOSING_TITLE": "选对套餐，稳定使用",
+          "AI_DESCRIPTION": "，花云围绕日常跨境访问与流媒体需求提供多档订阅，基础版每月 100GB 流量、支持 3 台设备，旗舰版升级至 300GB 与 5 台设备，团队版可达 1000GB 与 20 台设备。按年付分别约 ¥150、¥350、¥850，更适合长期稳定使用。客户端覆盖主流平台，配置时按设备文档导入订阅即可。",
+          "AI_FEATURES_INTRO": "先看流量与设备数量，再选计费周期。",
+          "AI_FEATURES_TITLE": "套餐与设备选择要点",
+          "AI_FEATURE_TEXT_1": "轻度浏览选基础版 100GB，流媒体与游戏选旗舰版 300GB，团队协作选团队版 1000GB。",
+          "AI_FEATURE_TEXT_2": "基础版支持 3 台设备，旗舰版 5 台，团队版 20 台；多人共用建议直接考虑团队版。",
+          "AI_FEATURE_TEXT_3": "基础版年付 ¥150，旗舰版年付 ¥350，团队版年付 ¥850，长期使用比月付节省明显。",
+          "AI_FEATURE_TITLE_1": "按流量匹配套餐",
+          "AI_FEATURE_TITLE_2": "按设备数量选择",
+          "AI_FEATURE_TITLE_3": "按年付更划算",
+          "AI_GUIDE_INTRO": "从选择套餐到完成订阅配置，按顺序处理即可。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_HERO_INTRO": "花云为个人与小型团队提供跨境网络加速订阅，按流量、设备数和线路偏好划分套餐。基础版适合轻度浏览，旗舰版兼顾流媒体与游戏加速，团队版面向多设备协作场景。选择前可先确认常用设备数量与月度流量需求。",
+          "AI_HERO_SUBTITLE": "多设备订阅，按需选择",
+          "AI_HIGHLIGHT_1": "基础版：100GB/3 台设备",
+          "AI_HIGHLIGHT_2": "旗舰版：300GB/5 台设备",
+          "AI_HIGHLIGHT_3": "团队版：1000GB/20 台设备",
+          "AI_PLANS_INTRO": "三档套餐在流量、设备数量与线路规格上逐级提升，可按使用场景对照选择。",
+          "AI_PLANS_TITLE": "花云套餐对比",
+          "AI_STEP_TEXT_1": "根据常用设备数量与月度流量需求，在基础版、旗舰版、团队版中选定一档。",
+          "AI_STEP_TEXT_2": "确认操作系统与客户端版本是否匹配，并核对套餐支持的设备数量上限。",
+          "AI_STEP_TEXT_3": "参考对应客户端文档导入订阅信息，完成后即可在常用设备上使用。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "花云订阅套餐对比",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB 流量，支持 3 台设备同时在线，适合手机加电脑的轻量使用。若有多台设备或流媒体需求，可考虑旗舰版。",
+          "AI_FAQ_ANSWER_2": "年付比月付更省，基础版年付 150 元、旗舰版 350 元、团队版 850 元。长期使用可直接选择年付，减少续费次数。",
+          "AI_FAQ_ANSWER_3": "通常需要一条由服务方提供的订阅链接，客户端通过导入该链接获取节点。具体格式以所选客户端文档为准。",
+          "AI_FAQ_ANSWER_4": "旗舰版支持 5 台设备同时在线，团队版为 20 台，基础版为 3 台。若人数较多，建议选设备数量更充足的套餐。",
+          "AI_FAQ_ANSWER_5": "旗舰版提供全节点原生流媒体解锁，并针对游戏做了 IPLC 专线优化，适合对画质和延迟有要求的场景。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版适合哪类用户？",
+          "AI_FAQ_QUESTION_2": "套餐按年付有优惠吗？",
+          "AI_FAQ_QUESTION_3": "订阅导入需要准备什么？",
+          "AI_FAQ_QUESTION_4": "同时在线设备数怎么选？",
+          "AI_FAQ_QUESTION_5": "流媒体和游戏加速用哪个版本？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "cheapv2ray.com",
+    "host": "cheapv2ray.com"
+  },
+  "file_hashes": {
+    "index.html": "702d87cabd3c9a1ae998dd85a3435766d3f035303bb90055a228ecebfbcec22e",
+    "sitemap.xml": "37ea042ae34c8ea0d3418350240474146bd244287ed009afe252671766b1a64c",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "2a0296134e5ff40ece7456872659eca34f0eadfb3522750053a699ce79e48330",
+    "robots.txt": "9a37085bd82da6ccd787fb1a1a994c5da4b7d74f37c51cff15cd6fec500f562a",
+    "6ad700ab7d73ef9668771bf1869e591d.txt": "7622c145b3d7923e28ec434b94353607dbf3d210ddaf65ed9a4362a4db205fef"
+  },
+  "revision": "d0f45c4e08ff8f0460d673d833bdcb1caaacc8fb1db2862dc1c66ee29769b16e"
+}

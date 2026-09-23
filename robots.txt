@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cheapv2ray.com/sitemap.xml
